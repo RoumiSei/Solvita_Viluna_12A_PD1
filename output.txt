@@ -1,0 +1,15 @@
+C:\Users\PC\PycharmProjects\Solvita\venv\Scripts\python.exe C:\Users\PC\PycharmProjects\Solvita\PD1.py
+Mārtiņš Šrenks admin 22
+Jānis Vasariņš admin 18
+Linda Čipa admin 23
+Marija Rožlapa admin 56
+Einārs Kalviņš viesis 29
+Dāvis Melnalksnis viesis 34
+Modris Liepiņš viesis 18
+Vidējajs administratora vecums =  29.75
+Visvecākā administratora vecums =  56
+Visjaunākā administratora vecums =  18
+Administratoru skaits =  4
+Viesu skaits =  3
+
+Process finished with exit code 0
